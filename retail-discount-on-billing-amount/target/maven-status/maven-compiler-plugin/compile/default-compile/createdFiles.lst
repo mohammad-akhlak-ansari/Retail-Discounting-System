@@ -1,0 +1,13 @@
+shopping\discount\ThresholdDiscount.class
+shopping\core\Product.class
+shopping\discount\item\PricingPolicy.class
+shopping\test\TestWithoutDiscounts.class
+shopping\Main.class
+shopping\test\TestDiscounts.class
+shopping\core\ItemType.class
+shopping\core\User.class
+shopping\core\UserType.class
+shopping\core\Cart.class
+shopping\discount\item\PromotionPricing.class
+shopping\core\Item.class
+shopping\discount\DiscountPolicy.class
